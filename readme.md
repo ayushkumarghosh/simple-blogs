@@ -70,12 +70,12 @@ Implement the **Ranking Page** at `/ranking`.
 
 ## Responsibilities:
 
-- [ ] Fetch necessary data from Supabase.
-- [ ] Display a leaderboard:
+- Fetch necessary data from Supabase.
+- Display a leaderboard:
   - Authors ranked by total likes across all their blogs.
-- [ ] Implement **loading** and **error** handling states.
-- [ ] Ensure **responsiveness** across devices.
-- [ ] Maintain **clean**, **modular**, and **scalable** code.
+- Implement **loading** and **error** handling states.
+- Ensure **responsiveness** across devices.
+- Maintain **clean**, **modular**, and **scalable** code.
 
 ---
 
